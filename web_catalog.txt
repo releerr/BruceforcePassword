@@ -1,0 +1,6 @@
+index.php
+index.phps
+index.html
+flag.html
+flag.php
+flag.phps
